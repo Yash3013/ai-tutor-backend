@@ -1,2 +1,2 @@
 # ai-tutor-backend
-IPD team peoject
+IPD team project
